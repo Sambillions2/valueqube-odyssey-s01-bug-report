@@ -134,3 +134,6 @@ The same behavior was observed across multiple qtUSDC claim attempts: the claim 
 **Affected asset:** qtUSDC
 
 **Claim amount:** 1,000 qtUSDC
+## Video Evidence
+
+[View the full reproduction video](Recording 2026-08-17 141257-compressed.mp4)
